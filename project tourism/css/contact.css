@@ -1,0 +1,13 @@
+.contact-bar{
+	background-color: black;
+}
+.contact-topic{
+	font-size: 70px;
+	text-align: center;
+	color: white;	
+}
+.contactinfo{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}

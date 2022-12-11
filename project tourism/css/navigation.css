@@ -1,0 +1,41 @@
+.navigation-bar{
+	padding:10px;
+	background-color:black;
+    background-attachment: fixed;
+	position: fixed;
+	width:2000px;
+	margin-left:-10px;
+	border: 2px solid red;
+	
+	
+}
+.primary-menu{
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	padding: 15px;
+	
+}
+
+.primary-menu li{
+	padding-left: 30px;
+	font-size:20px;
+	text-transform:uppercase;
+	font-weight:700;
+}
+
+
+
+.primary-menu a{
+	color: white;
+	padding:10px;
+}
+
+a:link{
+	text-decoration: none;
+	}
+
+a:hover{
+    color:lightskyblue;
+   }
+

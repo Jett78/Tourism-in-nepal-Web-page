@@ -1,0 +1,24 @@
+.cuisines-topic{
+	font-size: 100px;
+	color: mediumvioletred;
+	padding-top:50px;
+	margin: 0px;
+}
+.cuisines-desc{
+	font-size: 25px;
+	font-weight:bold;
+	font-family:arial;
+}
+.cuisimgdesc{
+	display: block;
+	border-bottom: groove 3px  red;
+	border-radius: 20px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	background-color:lightgreen;
+	width: 300px;
+	text-align: center;
+}
+.hovcuis:hover+.cuisimgdesc{
+	display: block;
