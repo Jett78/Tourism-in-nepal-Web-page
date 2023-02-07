@@ -5,7 +5,37 @@ This is my first web page designing i did back in 2019 when i just started to le
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Untitled 8](https://user-images.githubusercontent.com/120304533/217213352-3f27268c-b7d1-4f22-8e0b-8f6c89d3b4fa.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -13,11 +43,84 @@ This is my first web page designing i did back in 2019 when i just started to le
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Untitled 10](https://user-images.githubusercontent.com/120304533/217213408-ceef8969-8c30-4ba2-94ec-b41e67470e1e.png)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Untitled 11](https://user-images.githubusercontent.com/120304533/217213444-ca6a135b-eb65-4bd1-b452-aba3a3d10dfb.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
